@@ -6,6 +6,6 @@ class Hello
 {
     public function talk()
     {
-        echo "talk";
+        echo "Hello Wolrd";
     }
 }
